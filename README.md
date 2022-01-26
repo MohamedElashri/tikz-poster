@@ -1,5 +1,5 @@
 # Tikz-Poster
-% Poster Template with TikZ
+Poster Template with TikZ
 
 
 ## Acknowledgement
