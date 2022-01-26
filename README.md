@@ -3,6 +3,7 @@
 
 
 ## Acknowledgement
-% Author: Stefan Kottwitz
-% https://www.packtpub.com/hardware-and-creative/latex-cookbook
+ **Author** : Stefan Kottwitz
+ 
+ https://www.packtpub.com/hardware-and-creative/latex-cookbook
 
